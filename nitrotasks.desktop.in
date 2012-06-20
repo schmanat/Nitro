@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Nitrotasks
+_Comment=Nitrotasks application
+Categories=GNOME;Utility;
+Exec=nitrotasks
+Icon=nitrotasks
+Terminal=false
+Type=Application
